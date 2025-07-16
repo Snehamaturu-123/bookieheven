@@ -35,15 +35,5 @@
 
 ---
 
-## 🔗 Live Links
-
-> 🔴 **(Replace these after deploying)**
-
-- **Frontend**: [https://your-netlify-link.netlify.app](#)
-- **Backend API**: [https://your-backend-link.onrender.com/api](#)
-
----
-
-## 🧾 Folder Structure
 
 
